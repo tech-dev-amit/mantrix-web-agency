@@ -18,7 +18,7 @@
         }
 
         // Update this to your desired email address.
-        $recipient = "tech.dev.amit@gmail.com";
+        $recipient = "ankit@techmantrix.com";
 		$subject = "Message from $fullname";
 
         // Email content.
